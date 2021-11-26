@@ -1,0 +1,15 @@
+C:\Users\Dark-Slide\Documents\GitHub\Hovedforloeb_1\Introduktion\Galactica\Galactica\bin\Debug\net6.0\Galactica.exe
+C:\Users\Dark-Slide\Documents\GitHub\Hovedforloeb_1\Introduktion\Galactica\Galactica\bin\Debug\net6.0\Galactica.deps.json
+C:\Users\Dark-Slide\Documents\GitHub\Hovedforloeb_1\Introduktion\Galactica\Galactica\bin\Debug\net6.0\Galactica.runtimeconfig.json
+C:\Users\Dark-Slide\Documents\GitHub\Hovedforloeb_1\Introduktion\Galactica\Galactica\bin\Debug\net6.0\Galactica.dll
+C:\Users\Dark-Slide\Documents\GitHub\Hovedforloeb_1\Introduktion\Galactica\Galactica\bin\Debug\net6.0\ref\Galactica.dll
+C:\Users\Dark-Slide\Documents\GitHub\Hovedforloeb_1\Introduktion\Galactica\Galactica\bin\Debug\net6.0\Galactica.pdb
+C:\Users\Dark-Slide\Documents\GitHub\Hovedforloeb_1\Introduktion\Galactica\Galactica\obj\Debug\net6.0\Galactica.csproj.AssemblyReference.cache
+C:\Users\Dark-Slide\Documents\GitHub\Hovedforloeb_1\Introduktion\Galactica\Galactica\obj\Debug\net6.0\Galactica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dark-Slide\Documents\GitHub\Hovedforloeb_1\Introduktion\Galactica\Galactica\obj\Debug\net6.0\Galactica.AssemblyInfoInputs.cache
+C:\Users\Dark-Slide\Documents\GitHub\Hovedforloeb_1\Introduktion\Galactica\Galactica\obj\Debug\net6.0\Galactica.AssemblyInfo.cs
+C:\Users\Dark-Slide\Documents\GitHub\Hovedforloeb_1\Introduktion\Galactica\Galactica\obj\Debug\net6.0\Galactica.csproj.CoreCompileInputs.cache
+C:\Users\Dark-Slide\Documents\GitHub\Hovedforloeb_1\Introduktion\Galactica\Galactica\obj\Debug\net6.0\Galactica.dll
+C:\Users\Dark-Slide\Documents\GitHub\Hovedforloeb_1\Introduktion\Galactica\Galactica\obj\Debug\net6.0\ref\Galactica.dll
+C:\Users\Dark-Slide\Documents\GitHub\Hovedforloeb_1\Introduktion\Galactica\Galactica\obj\Debug\net6.0\Galactica.pdb
+C:\Users\Dark-Slide\Documents\GitHub\Hovedforloeb_1\Introduktion\Galactica\Galactica\obj\Debug\net6.0\Galactica.genruntimeconfig.cache
